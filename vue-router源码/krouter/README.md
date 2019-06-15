@@ -1,4 +1,4 @@
-# vue-cart
+# krouter
 
 ## Project setup
 ```
