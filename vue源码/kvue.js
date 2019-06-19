@@ -73,6 +73,7 @@ class Dep {
 
     addDep(dep) {
         this.deps.push(dep);
+        console.log(this.deps);
     }
 
     notify() {
