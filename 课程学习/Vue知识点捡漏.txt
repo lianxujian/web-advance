@@ -1,0 +1,2 @@
+1¡¢computed
+2¡¢this.$root.$emit()          Vue.prototype.$bus = new Vue();
