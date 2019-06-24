@@ -24,7 +24,7 @@
             },
             incAsync() {
                 // this.$store.dispatch('increaseAsync')
-                this.increaseAsync()
+                this.increaseAsync('参数')
             }
         },
         computed: { 

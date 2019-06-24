@@ -31,7 +31,8 @@ export default new Vuex.Store({
   actions: {
     // 异步操作时使用
     increaseAsync({ state, commit }, payload) {
-      setTimeout(() => {
+        console.log(payload);
+        setTimeout(() => {
         commit("increase");
       }, 1000);
     },
