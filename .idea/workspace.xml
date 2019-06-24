@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96acb4c1-e037-4dfc-a63c-905ad6535fb2" name="Default" comment="Vue2.5">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课程学习/Vue知识点捡漏.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/课程学习/Vue知识点捡漏.txt" afterPath="" />
+    <list default="true" id="96acb4c1-e037-4dfc-a63c-905ad6535fb2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/课程学习/3Vue-router&amp;vuex/package.json" afterPath="$PROJECT_DIR$/课程学习/3Vue-router&amp;vuex/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/课程学习/3Vue-router&amp;vuex/src/store.js" afterPath="$PROJECT_DIR$/课程学习/3Vue-router&amp;vuex/src/store.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/课程学习/3Vue-router&amp;vuex/src/views/Dashboard.vue" afterPath="$PROJECT_DIR$/课程学习/3Vue-router&amp;vuex/src/views/Dashboard.vue" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -299,7 +294,7 @@
       <workItem from="1560948749766" duration="1665000" />
       <workItem from="1560993742679" duration="8520000" />
       <workItem from="1561104700239" duration="1677000" />
-      <workItem from="1561341384790" duration="5002000" />
+      <workItem from="1561341384790" duration="5113000" />
     </task>
     <task id="LOCAL-00001" summary="Vue2.5">
       <created>1561035403634</created>
@@ -308,11 +303,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561035403634</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Vue2.5">
+      <created>1561356485996</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561356485996</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79641000" />
+    <option name="totallyTimeSpent" value="79752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
