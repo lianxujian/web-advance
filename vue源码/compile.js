@@ -70,7 +70,7 @@ class Compile {
 
     //更新函数
     update(node, vm, exp, dir) {
-        console.log(node);
+        //console.log(node);
         const updaterFn = this[dir + 'Updater'];
         //初始化
         updaterFn && updaterFn(node, vm[exp]);
