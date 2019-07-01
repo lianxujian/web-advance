@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96acb4c1-e037-4dfc-a63c-905ad6535fb2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/src/components/BallAnim.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/src/services/create.js" />
+    <list default="true" id="96acb4c1-e037-4dfc-a63c-905ad6535fb2" name="Default" comment="Vue2.5">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/src/components/BallAnim.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/src/services/create.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue源码/compile.js" afterPath="$PROJECT_DIR$/vue源码/compile.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,98 +20,7 @@
     <favorites_list name="web-advance" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/src/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vue源码/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kexpress.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课程学习/5 node基础/kexpress.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/src/services/create.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="notice.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/src/services/notice.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01-runnode.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课程学习/5 node基础/01-runnode.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02-useModule.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/课程学习/5 node基础/02-useModule.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="08-kexpress-test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课程学习/5 node基础/08-kexpress-test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BallAnim.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/src/components/BallAnim.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1475">
-              <caret line="59" column="39" lean-forward="false" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -200,7 +108,6 @@
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
     <package-json value="$PROJECT_DIR$/webpack/webpack公开课/code/kkb-pack/package.json" />
-    <package-json value="$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/package.json" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -218,8 +125,6 @@
     <handled-path value="$PROJECT_DIR$/webpack/webpack公开课/code/node_modules" />
     <handled-path value="$PROJECT_DIR$/课程学习/1 Vue2.5/node_modules" />
     <handled-path value="$PROJECT_DIR$/课程学习/3 Vue-router&amp;vuex/node_modules" />
-    <handled-path value="$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/node_modules" />
-    <handled-path value="$PROJECT_DIR$/课程学习/5 node基础/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1" />
@@ -260,12 +165,6 @@
               <item name="web-advance" type="b2602c69:ProjectViewProjectNode" />
               <item name="web-advance" type="462c0819:PsiDirectoryNode" />
               <item name="课程学习" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-advance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-advance" type="462c0819:PsiDirectoryNode" />
-              <item name="课程学习" type="462c0819:PsiDirectoryNode" />
-              <item name="5 node基础" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -370,7 +269,7 @@
       <workItem from="1561425110878" duration="14401000" />
       <workItem from="1561512722095" duration="28009000" />
       <workItem from="1561617854640" duration="13953000" />
-      <workItem from="1561943780348" duration="40000" />
+      <workItem from="1561943780348" duration="1029000" />
     </task>
     <task id="LOCAL-00001" summary="Vue2.5">
       <created>1561035403634</created>
@@ -400,11 +299,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561532319496</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Vue2.5">
+      <created>1561943854640</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561943854640</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147196000" />
+    <option name="totallyTimeSpent" value="148185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -445,7 +351,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/课程学习/3Vue-router&amp;vuex/src/store.js" />
     <entry file="file://$PROJECT_DIR$/课程学习/3Vue-router&amp;vuex/src/views/Page2.vue" />
     <entry file="file://$PROJECT_DIR$/课程学习/3Vue-router&amp;vuex/src/views/Page1.vue" />
     <entry file="file://$PROJECT_DIR$/课程学习/3Vue-router&amp;vuex/.gitignore" />
@@ -543,6 +448,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -664,6 +570,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="106" column="40" lean-forward="true" selection-start-line="106" selection-start-column="40" selection-end-line="106" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -685,6 +592,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -692,6 +600,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -699,6 +608,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="539">
           <caret line="98" column="26" lean-forward="false" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -716,14 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue源码/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/课程学习/5 node基础/08-kexpress-test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -736,14 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课程学习/5 node基础/01-runnode.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -787,8 +681,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/课程学习/5 node基础/02-useModule.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="350">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程学习/5 node基础/01-runnode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue源码/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding />
         </state>
       </provider>
