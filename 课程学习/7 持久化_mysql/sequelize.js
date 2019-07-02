@@ -43,7 +43,7 @@ const Fruit = sequelize.define(
         timestamps: false,//默认创建时间、更新时间创建与否
         freezTableName: true, // 表名冻结
         getterMethods: {
-            amount() {
+            amount() {//amount 随便取的名字
                 return this.getDataValue("stock") + "kg";
             }
         },

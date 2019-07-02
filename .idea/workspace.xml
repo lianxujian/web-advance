@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96acb4c1-e037-4dfc-a63c-905ad6535fb2" name="Default" comment="Vue2.5">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/课程学习/7 持久化_mysql/sequelize.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/课程学习/5 node基础/02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/课程学习/5 node基础/conf2.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/课程学习/5 node基础/node_modules/.npminstall.done" afterPath="$PROJECT_DIR$/课程学习/5 node基础/node_modules/.npminstall.done" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/课程学习/7 持久化_mysql/sequelize.js" afterPath="$PROJECT_DIR$/课程学习/7 持久化_mysql/sequelize.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,45 +20,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="db.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/db.json">
+      <file leaf-file-name="sequelize.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/sequelize.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sequelize2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/sequelize2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-436">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="1575">
+              <caret line="70" column="26" lean-forward="false" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="26" />
               <folding>
-                <element signature="e#105#461#0" expanded="false" />
                 <element signature="e#243#381#0" expanded="false" />
-                <element signature="e#395#459#0" expanded="false" />
+                <element signature="e#1755#1794#0" expanded="false" />
+                <element signature="e#1851#1883#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sequelize.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/sequelize.js">
+      <file leaf-file-name="sequelize2.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/sequelize2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="814">
-              <caret line="122" column="7" lean-forward="false" selection-start-line="122" selection-start-column="7" selection-end-line="122" selection-end-column="7" />
+            <state relative-caret-position="139">
+              <caret line="44" column="47" lean-forward="true" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
               <folding>
                 <element signature="e#105#461#0" expanded="false" />
                 <element signature="e#243#381#0" expanded="false" />
                 <element signature="e#395#459#0" expanded="false" />
-                <element signature="e#538#1101#0" expanded="false" />
-                <element signature="e#1107#1554#0" expanded="false" />
-                <element signature="e#1598#1694#0" expanded="false" />
-                <element signature="e#1740#1779#0" expanded="false" />
-                <element signature="e#1836#1868#0" expanded="false" />
-                <element signature="e#1941#2019#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -70,12 +51,21 @@
       <file leaf-file-name="mysql.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/mysql.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
-              <caret line="65" column="21" lean-forward="false" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+            <state relative-caret-position="450">
+              <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
               <folding>
-                <element signature="n#!!block;n#query#0" expanded="false" />
                 <element signature="e#831#1182#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fsdb.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/fsdb.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="925">
+              <caret line="37" column="19" lean-forward="false" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,7 +74,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>add</find>
       <find>selectHandler</find>
       <find>selectedKeys</find>
       <find>drawerList</find>
@@ -112,8 +101,9 @@
       <find>getDataValue</find>
       <find>amount</find>
       <find>name</find>
-      <find>totalPrice</find>
       <find>categories</find>
+      <find>validate</find>
+      <find>totalPrice</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -217,8 +207,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -341,7 +331,9 @@
       <workItem from="1561948119628" duration="481000" />
       <workItem from="1561948901390" duration="394000" />
       <workItem from="1561949987827" duration="3710000" />
-      <workItem from="1561961285723" duration="20741000" />
+      <workItem from="1561961285723" duration="20873000" />
+      <workItem from="1562030383093" duration="3459000" />
+      <workItem from="1562065432377" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="Vue2.5">
       <created>1561035403634</created>
@@ -389,15 +381,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174747000" />
+    <option name="totallyTimeSpent" value="178360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15068494" sideWeight="0.76199615" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10484721" sideWeight="0.76199615" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917467" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917467" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19125395" sideWeight="0.23800384" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26775432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -410,6 +401,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917467" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -430,38 +422,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vue源码/课件/vue-kkb-master/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue源码/课件/vue-kkb-master/compile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="106" column="40" lean-forward="true" selection-start-line="106" selection-start-column="40" selection-end-line="106" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/src/components/GoodsList.vue" />
-    <entry file="file://$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/src/components/HelloWorld.vue" />
-    <entry file="file://$PROJECT_DIR$/vue源码/compile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue源码/kvue.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/src/views/Home.vue" />
-    <entry file="file://$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/src/components/Notice.vue" />
     <entry file="file://$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/src/views/Cart.vue" />
     <entry file="file://$PROJECT_DIR$/课程学习/5 node基础/08-kexpress-test.js" />
     <entry file="file://$PROJECT_DIR$/课程学习/4 电商项目/vue-mart-master/src/components/BallAnim.vue" />
@@ -542,7 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -550,7 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -558,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -566,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -574,7 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -582,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -590,7 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -598,7 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -606,7 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -614,124 +565,95 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/chat.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/chat-http.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/chat-socket.js">
+    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/chat.html" />
+    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/chat-http.js" />
+    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/chat-socket.js" />
+    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/conf.js" />
+    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/currency.js" />
+    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/http-server.js" />
+    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/http-server-2.js" />
+    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/index.html" />
+    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/kexpress.js" />
+    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/spider.js" />
+    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/db.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/conf.js">
+    <entry file="file://$PROJECT_DIR$/深入Vue组件设计与开发/component/KFormItem.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-150">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/currency.js">
+    <entry file="file://$PROJECT_DIR$/深入Vue组件设计与开发/component/KInput.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/http-server.js">
+    <entry file="file://$PROJECT_DIR$/深入Vue组件设计与开发/component/KForm.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/http-server-2.js">
+    <entry file="file://$PROJECT_DIR$/课程学习/2 Vue2.5组件化/src/components/FormItem.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-25">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/index.html">
+    <entry file="file://$PROJECT_DIR$/课程学习/2 Vue2.5组件化/src/components/Input.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="600">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/kexpress.js">
+    <entry file="file://$PROJECT_DIR$/课程学习/2 Vue2.5组件化/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="675">
+          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/spider.js">
+    <entry file="file://$PROJECT_DIR$/课程学习/2 Vue2.5组件化/src/components/Form.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="650">
+          <caret line="35" column="45" lean-forward="true" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程学习/2 Vue2.5组件化/src/components/FormTest.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1475">
+          <caret line="61" column="35" lean-forward="false" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/fsdb.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="925">
-          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+          <caret line="37" column="19" lean-forward="false" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/db.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/sequelize2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-436">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#105#461#0" expanded="false" />
-            <element signature="e#243#381#0" expanded="false" />
-            <element signature="e#395#459#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/mysql.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="65" column="21" lean-forward="false" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+        <state relative-caret-position="450">
+          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
           <folding>
-            <element signature="n#!!block;n#query#0" expanded="false" />
             <element signature="e#831#1182#0" expanded="false" />
           </folding>
         </state>
@@ -739,18 +661,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/sequelize.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="122" column="7" lean-forward="false" selection-start-line="122" selection-start-column="7" selection-end-line="122" selection-end-column="7" />
+        <state relative-caret-position="1575">
+          <caret line="70" column="26" lean-forward="false" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="26" />
+          <folding>
+            <element signature="e#243#381#0" expanded="false" />
+            <element signature="e#1755#1794#0" expanded="false" />
+            <element signature="e#1851#1883#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程学习/7 持久化_mysql/sequelize2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="44" column="47" lean-forward="true" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
           <folding>
             <element signature="e#105#461#0" expanded="false" />
             <element signature="e#243#381#0" expanded="false" />
             <element signature="e#395#459#0" expanded="false" />
-            <element signature="e#538#1101#0" expanded="false" />
-            <element signature="e#1107#1554#0" expanded="false" />
-            <element signature="e#1598#1694#0" expanded="false" />
-            <element signature="e#1740#1779#0" expanded="false" />
-            <element signature="e#1836#1868#0" expanded="false" />
-            <element signature="e#1941#2019#0" expanded="false" />
           </folding>
         </state>
       </provider>
