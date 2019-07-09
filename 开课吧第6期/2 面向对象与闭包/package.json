@@ -1,0 +1,21 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "browser.min.js",
+  "scripts": {
+    "build": "babel src -d dest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "neo-async": "^2.6.1",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.5",
+    "webpack-sources": "^1.3.0"
+  },
+  "dependencies": {
+    "json-parse-better-errors": "^1.0.2"
+  }
+}
