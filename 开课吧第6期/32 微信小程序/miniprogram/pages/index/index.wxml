@@ -1,0 +1,3 @@
+<view>
+  <button bindtap='fn'>读取</button>
+</view>
