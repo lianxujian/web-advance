@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        body,
+        html {
+            margin: 0;
+            padding: 0;
+            font-size: 0.12rem;
+        }
+        
+        .box {
+            width: 100px;
+            height: 100px;
+            background: orange;
+            margin-bottom: 20px;
+            font-size: 12px;
+        }
+        
+        .box2 {
+            width: 1rem;
+            height: 1rem;
+            background: orange;
+        }
+    </style>
+</head>
+
+<body>
+    <div class='box'>樊虎</div>
+    <div class='box2'>樊虎</div>
+</body>
+<script>
+    window.onload = function() {
+        //默认1rem为16px;如果设置html{font-size:100px;}那就改变默认设置成1rem为100px了;
+
+        /*720代表设计师给的设计稿的宽度，你的设计稿是多少，就写多少;100代表换算比例，这里写100是
+          为了以后好算,比如，你测量的一个宽度是100px,就可以写为1rem,以及1px=0.01rem等等*/
+        getRem(414, 100)
+    };
+    window.onresize = function() {
+        getRem(414, 100)
+    };
+
+    function getRem(pwidth, prem) {
+        var html = document.getElementsByTagName("html")[0];
+        var oWidth = document.body.clientWidth || document.documentElement.clientWidth;
+        html.style.fontSize = oWidth / pwidth * prem + "px";
+    }
+    //-------------------- linux了解 -----------------------//
+    //1、 
+    /* setTimeout(function () {
+         console.log(1);
+     }, 0);
+     new Promise(function (resolve, reject) {
+         resolve(2);
+         console.log(0)
+     }).then(console.log);
+     console.log(3);//0 3 2 1*/
+    //任务队列
+    /*setTimeout和setlnterval
+    DOM事件
+    ES6中的Promise
+    Ajax异步请求
+    主线程从"任务队列"中读取事件，这个过程是循环不断的，所以整个的这种运行机制又称为Event Loop（事件循环）。只要主线程空了，就会去读取"任务队列"，这就是JavaScript的运行机制
+    */
+
+    //2、
+    /*
+    var c = 10;
+    var c = (function(){
+        c = 20;
+        console.log(c); //输出：20
+    })();
+    console.log(c); //输出：undefined 。 b在自执行函数那里没有获取到返回值
+
+    var b = 10;
+   (function b(){
+       b = 20;
+       console.log(b);       //函数
+       console.log(window.b) //10
+   })();
+
+   (function a(){
+                //在函数表达式里函数名是不可变的，只能引用，不能赋值。如果你加上 'use strict' 在 strict mode 下就可以观察到报错。
+        a = 10; //这个表达式不会成功，函数a依旧是函数a，至于这里面的a = 10等同于被废弃了，也不会生成相应的全局变量
+        console.log(a)
+    })();
+   */
+    /* var a = 5;
+     function todo() {
+         var a = 9;
+         return function() {
+             a = 7;
+             console.log(a);
+         };
+     }
+     todo()();
+     console.log(a);*/
+
+    //3、
+    /*(function() {
+        var greet = 'Hello Shuidi';
+        var toGreet = [].filter.call(greet, function(element, index) {
+            return index > 5;
+        });
+        console.log(toGreet);
+    }());
+*/
+    //4、
+    /*let obj = { foo: { bar: { name: 'biz' }}}
+    get(obj, 'foo.bar.name') // 输出：biz
+    obj = {}
+    get( obj, 'foo.bar.name') // 输出：undefined
+    get( obj, 'foo.bar.name', 'biz') // 输出：biz
+    // 函数如下：
+    function get (obj, path, defaultValue) {
+        // todo
+    }*/
+    let obj = {
+        foo: {
+            bar: {
+                name: 'biz'
+            }
+        }
+    }
+    get(obj, 'foo.bar.name') // 输出：biz
+    console.log(get(obj, 'foo.bar.name'));
+    obj = {}
+    get(obj, 'foo.bar.name') // 输出：undefined
+    console.log(get(obj, 'foo.bar.name'));
+    get(obj, 'foo.bar.name', 'biz') // 输出：biz
+    console.log(get(obj, 'foo.bar.name', 'biz'));
+    // 函数如下：
+    function get(obj, path, defaultValue) {
+        // todo
+        const pathArr = path.split('.');
+        const key = pathArr[0];
+        if (obj[key] && typeof obj[key] == 'object') {
+            pathArr.shift();
+            return get(obj[key], pathArr.join('.'), defaultValue)
+        } else {
+            if (obj[key]) {
+                return obj[key]
+            } else {
+                return defaultValue;
+            }
+        }
+    }
+    //5、
+    //    例⼦：https%253A%252F%252Fwww.baidu.com%252F%253Ftest%253D1
+    //    条件: 被编码次数未知
+    //    结果: https://www.baidu.com/?test=1
+    //console.log(encodeURIComponent(encodeURIComponent(encodeURIComponent('https://www.baidu.com%/?test=1'))));
+    function decodeFn(url) {
+        try {
+            return decodeFn(decodeURIComponent(url));
+        } catch (e) {
+            return url;
+        }
+    }
+    console.log(decodeFn('https%25253A%25252F%25252Fwww.baidu.com%252525%25252F%25253Ftest%25253D1'));
+    //6、
+    /*  [{
+            key: 0.123123,
+            child:{
+                key: 0.3213313,
+                child:{
+                    key: 0.123123,
+                    child: {
+                        key: 0.723793,
+                        ...
+                    }
+                }
+            }
+        }, {
+            key: 0.788798,
+            child:{
+                key: 0.312308,
+                child:{
+                    key: 0.123123,
+                    child: {
+                        key: 0.3213313,
+                        child: {
+                            key: 0.866668
+                        }
+                    }
+                }
+            }
+        }]
+    上面的数据结构中，不同层级的 key 可能会相同. 实现一个方法，调用时更新上面数组的
+    key 值，使所有的 key 对应的值变更为新的随机数，并且保证更新前相同的 key 更新为新
+    值后也依然相同即可*/
+</script>
+
+</html>
