@@ -1,0 +1,69 @@
+App
+  生命周期函数
+
+Page
+
+
+
+view——类似div，块元素
+text——类似span，行内元素
+button——类似button
+
+scroll-view	滚动视图
+swiper		banner视图
+
+icon
+image   <image src="..."
+video    <video src="..."
+audio    <audio src="..."
+
+<navigator url="..."></>
+
+form
+button
+input
+radio/checkbox
+picker——选择器
+	日期、时间、省份、自定义
+
+map——地图
+canvas——绘图
+ad
+
+
+https://api.weixin.qq.com/sns/jscode2session?appid=APPID&secret=SECRET&js_code=JSCODE&grant_type=authorization_code
+
+wx54a46fc113d310d7
+d4b0272a2f24bdaf2e2af6155dcc0508
+
+https://api.weixin.qq.com/sns/jscode2session?appid=wx54a46fc113d310d7&secret=d4b0272a2f24bdaf2e2af6155dcc0508&js_code=061f4mX52eNMAQ0aMtX52C2iX52f4mX6&grant_type=authorization_code
+
+
+{"session_key":"pfomyS1oQH8tbiaYIV2b8Q==","openid":"oxgA75IDrvwn9jphgP6PQgG1zVas", unionid}
+
+用户：
+session_key：会话ID，会变的
+openid：用户ID，不会变的
+access_token：令牌，会变
+
+蓝牙类型：
+耳机、显示、通话
+
+1.蓝牙
+  普通
+  BLE
+2.WiFi
+3.NFC
+
+
+
+
+
+
+
+
+
+
+
+
+
