@@ -8,9 +8,9 @@ class KRouter {
             beforeCreate() {
                 Vue.prototype.$kkbrouter = '来了小老弟，我是路由'
                 if (this.$options.router) {
+                    console.log(this.$options);//这儿的this.$options是Vue的options跟下面的options不是一个(this指Vue实例)
                     // 这是入口
                     // 启动路由    在这儿启用路由是为了在main.js的data里如果不传router的话就不启用路由
-                    console.log(this.$options)
                     Vue.prototype.$krouter = this.$options.router //new KRouter();
 
                     this.$options.router.init()
@@ -22,6 +22,7 @@ class KRouter {
     }
     constructor(options) {
         this.$options = options
+        //console.log(this.$options);
         this.routeMap = {}
             // 使用Vue的响应式机制，路由切换的时候，做一些响应
         this.app = new Vue({

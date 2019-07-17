@@ -42,7 +42,7 @@ class KkbPack{
       const fileContent = fs.readFileSync(modulePath,'utf-8')
       // 替换后的代码喝依赖数组
       const { code, deps} = this.parse(fileContent, path.dirname(name))
-      //console.log(code, deps)
+      console.log(code)
       this.modules[name] = `function(module, exports, __kkbpack_require__){
         eval(\`${code}\`)
       }
